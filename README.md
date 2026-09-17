@@ -74,9 +74,9 @@ meeting-assistant/
 │ └── test_api_skills.py
 │
 ├── pyproject.toml
-├── requirements.txt
-├── .gitignore
-└── README.md
+└── requirements.txt
+└── docs
+    └── screenshots     # фото результатов работы
 ```
 
 ---
